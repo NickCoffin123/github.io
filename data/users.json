@@ -4,19 +4,19 @@
             {
               "DisplayName" : "NickCoffin",
               "EmailAddress" : "nick2@coffin.com",
-              "UserName" : "ncoffin",
+              "Username" : "ncoffin",
               "Password" : "abc123"
             },
             {
               "DisplayName" : "Charmaine Mangaser",
               "EmailAddress" : "charmy@mangey.com",
-              "UserName" : "charmy",
+              "Username" : "charmy",
               "Password" : "123abc"
             },
             {
               "DisplayName" : "admin",
               "EmailAddress" : "user@admin.com",
-              "UserName" : "admin",
+              "Username" : "admin",
               "Password" : "password"
             }
           ]
